@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**danielalbinsson/danielalbinsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on leveraging AI-driven workflows to streamline design-to-code.
 
-Here are some ideas to get you started:
+🌱 I’m currently building all sorts of small tools to better my workflows. Currently (march 2026 using cursor, vercel, openrouter and mastra. But this changes fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source projects that bridge the gap between clean code and intuitive UX.
+
+🤔 I’m looking for help with mastering complex architectural patterns in modern web frameworks.
+
+💬 Ask me about Design to Code stuff or how to build tools that actually make life easier.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I once asked an AI to write my bio and it actually did a pretty decent job.
