@@ -1,15 +1,18 @@
-## Hi there 👋
+# Daniel Albinsson
 
-🔭 I’m currently working on leveraging AI-driven workflows to streamline design-to-code.
+Product designer with 25 years of experience across complex systems — healthcare simulation, connected vehicles, public infrastructure, data platforms.
 
-🌱 I’m currently building all sorts of small tools to better my workflows. Currently (march 2026 using cursor, vercel, openrouter and mastra. But this changes fast.
+Currently consulting at [Forefront](https://forefront.se) in Malmö, Sweden.
 
-👯 I’m looking to collaborate on open-source projects that bridge the gap between clean code and intuitive UX.
+## Focus
 
-🤔 I’m looking for help with mastering complex architectural patterns in modern web frameworks.
+Designing for AI-agent interfaces — how humans supervise, correct, and collaborate with autonomous systems. Published [Agentic UX](https://agentic-ux.com), an open framework of lifecycle patterns for supervised delegation.
 
-💬 Ask me about Design to Code stuff or how to build tools that actually make life easier.
+## Selected work
 
-😄 Pronouns: He/Him
+IKEA, Volvo Penta, Kustbevakningen, Boverket, Pacific Surfliner, Laerdal Medical, Ericsson, Telia.
 
-⚡ Fun fact: I once asked an AI to write my bio and it actually did a pretty decent job.
+## Elsewhere
+
+- [danielalbinsson.com](https://www.danielalbinsson.com)
+- [agentic-ux.com](https://agentic-ux.com)
