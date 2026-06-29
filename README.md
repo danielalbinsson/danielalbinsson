@@ -8,9 +8,9 @@ Currently consulting at [Forefront](https://forefront.se) in Malmö, Sweden.
 
 Designing for AI-agent interfaces — how humans supervise, correct, and collaborate with autonomous systems. Published [Agentic UX](https://agentic-ux.com), an open framework of lifecycle patterns for supervised delegation.
 
-## Selected work
+## Companies I have worked with
 
-IKEA, Volvo Penta, Kustbevakningen, Boverket, Pacific Surfliner, Laerdal Medical, Ericsson, Telia.
+IKEA, Volvo Penta, Kustbevakningen, Boverket, Pacific Surfliner, Laerdal, Ericsson, Telia.
 
 ## Elsewhere
 
